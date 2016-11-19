@@ -1,0 +1,130 @@
+/*.icon-home-1:before {
+  font-size: 0.8em;
+}*/
+
+.icon-download:before {
+  font-size: 1em;
+  margin-right: 5px;
+}
+.icon-calendar:before {
+  font-size: 1em;
+  margin-right: 5px;
+}
+
+.icon-bullhorn:before{
+  font-size: 1em;
+  margin-right: 5px;
+
+}
+
+.icon-clipboard-pencil:before{
+   font-size: 1em;
+  margin-right: 5px;
+}
+
+.icon-facebook:before {
+   
+    font-size: 1.8em;
+}
+
+span.icon-facebook:hover{
+
+  color:  #FF3300;
+}
+.icon-youtube:before {
+ font-size: 1.8em;
+}
+
+span.icon-youtube:hover{
+
+  color:  #FF3300;
+}
+
+
+
+.icon-twitter:before {
+   
+    font-size: 1.8em;
+}
+span.icon-twitter:hover{
+
+  color:  #FF3300;
+}
+.icon-phone:before {
+  font-size: 1.3em;
+  margin-right: 5px;
+}
+/*.icon-mail:before {
+  font-size: 1.3em;
+  margin-right: 5px;
+}
+i.icon-mail:before {
+  font-size: 1.3em;
+  margin-right: 5px;
+}
+*/
+.icon-users:before {
+  font-size: 1.3em;
+  margin-right: 10px;
+}
+
+/*.icon-location:before {
+  font-size: 1em;
+  margin-right: 5px;
+  color:  #F44336;
+}*/
+
+.icon-location-1:before {
+  
+    font-size: 0.8em;
+}
+
+.icon-caret-down:before {
+ 
+    font-size: 0.6em;
+}
+/*.icon-mail-1:before {
+ 
+    font-size: 0.7em;
+}*/
+
+
+a.social{
+	margin-left: 1rem;
+}
+
+
+i.right{
+	margin-left: 0px;
+   padding-left: 0.3em;
+}
+
+i.left {
+
+    margin-right: 10px;
+}
+
+
+.tabs .tab{
+	text-transform: none;
+	letter-spacing: 0.4px;
+}
+
+nav i.peque{
+	font-size: 1.5rem;
+	
+}
+
+.collection .collection-item.avatar .secondary-content {
+
+    top: 55px;
+  
+}
+
+
+
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 95%;
+  }
+}
